@@ -1,6 +1,11 @@
 package com.company.easy;
 
 public class Queue {
+    /**队列核心思想:对首出队  对尾入队
+     * @param arr
+     * @param head
+     * @param tail
+     */
     public static void pop(int[] arr,int head,int tail){
         if(head>tail) return;
         while (head<tail){
