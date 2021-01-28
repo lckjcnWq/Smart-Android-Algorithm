@@ -1,10 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="82a3f5a1-2110-4bd1-96ea-0a9bc73453cb" name="Default Changelist" comment="">
+    <list default="true" id="82a3f5a1-2110-4bd1-96ea-0a9bc73453cb" name="Default Changelist" comment="1.read.md说明">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -70,33 +69,27 @@
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="1" id="Add" />
   </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="restartRequiresConfirmation" value="false" />
-    <property name="settings.editor.selected.configurable" value="plugins.junitgenerator.application" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
-  </component>
-  <component name="RunManager" selected="Application.Djstl">
-    <configuration name="DepthFirst" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.easy.depth.DepthFirst" />
+  <component name="RunManager" selected="Application.Arrayqueue">
+    <configuration name="Arrayqueue" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.DataStructure.Arrayqueue" />
       <module name="LetCodePay" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.company.easy.depth.*" />
+          <option name="PATTERN" value="com.company.DataStructure.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -117,12 +110,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Link" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.easy.Link" />
+    <configuration name="SpareArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.DataStructure.SpareArray" />
       <module name="LetCodePay" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.company.easy.depth.*" />
+          <option name="PATTERN" value="com.company.DataStructure.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -158,11 +151,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Arrayqueue" />
+        <item itemvalue="Application.SpareArray" />
+        <item itemvalue="Application.Test" />
         <item itemvalue="Application.Djstl" />
         <item itemvalue="Application.TEST" />
-        <item itemvalue="Application.DepthFirst" />
-        <item itemvalue="Application.Link" />
-        <item itemvalue="Application.Test" />
       </list>
     </recent_temporary>
   </component>
@@ -192,6 +185,12 @@
       <workItem from="1588682787798" duration="664000" />
       <workItem from="1588936124562" duration="1054000" />
       <workItem from="1589172328578" duration="1622000" />
+      <workItem from="1590826013647" duration="293000" />
+      <workItem from="1590826336514" duration="408000" />
+      <workItem from="1609045075517" duration="47000" />
+      <workItem from="1611203153388" duration="308000" />
+      <workItem from="1611771545366" duration="263000" />
+      <workItem from="1611835774094" duration="1172000" />
     </task>
     <task id="LOCAL-00001" summary="1.添加深度优先和广度优先算法">
       <created>1588082388061</created>
@@ -218,25 +217,50 @@
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
+    <option name="version" value="2" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
       <map>
         <entry key="MAIN">
           <value>
-            <State>
-              <option name="COLUMN_ORDER" />
-            </State>
+            <State />
           </value>
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="1.添加深度优先和广度优先算法" />
     <MESSAGE value="1.read.md说明" />
     <option name="LAST_COMMIT_MESSAGE" value="1.read.md说明" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="696" height="195" key="GridCell.Tab.0.bottom" timestamp="1611774177511">
+      <screen x="0" y="23" width="1440" height="797" />
+    </state>
+    <state width="696" height="195" key="GridCell.Tab.0.bottom/0.23.1440.797@0.23.1440.797" timestamp="1611774177511" />
+    <state width="696" height="195" key="GridCell.Tab.0.center" timestamp="1611774177510">
+      <screen x="0" y="23" width="1440" height="797" />
+    </state>
+    <state width="696" height="195" key="GridCell.Tab.0.center/0.23.1440.797@0.23.1440.797" timestamp="1611774177510" />
+    <state width="696" height="195" key="GridCell.Tab.0.left" timestamp="1611774177509">
+      <screen x="0" y="23" width="1440" height="797" />
+    </state>
+    <state width="696" height="195" key="GridCell.Tab.0.left/0.23.1440.797@0.23.1440.797" timestamp="1611774177509" />
+    <state width="696" height="195" key="GridCell.Tab.0.right" timestamp="1611774177510">
+      <screen x="0" y="23" width="1440" height="797" />
+    </state>
+    <state width="696" height="195" key="GridCell.Tab.0.right/0.23.1440.797@0.23.1440.797" timestamp="1611774177510" />
+    <state x="221" y="64" key="SettingsEditor" timestamp="1611203252875">
+      <screen x="0" y="23" width="1440" height="801" />
+    </state>
+    <state x="221" y="64" key="SettingsEditor/0.23.1440.801@0.23.1440.801" timestamp="1611203252875" />
+    <state x="510" y="344" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1611771552964">
+      <screen x="0" y="23" width="1440" height="797" />
+    </state>
+    <state x="510" y="344" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.23.1440.797@0.23.1440.797" timestamp="1611771552964" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -255,11 +279,6 @@
           <url>file://$PROJECT_DIR$/src/com/company/easy/Queue.java</url>
           <line>9</line>
           <option name="timeStamp" value="5" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/com/company/Test.java</url>
-          <line>22</line>
-          <option name="timeStamp" value="7" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

@@ -1,0 +1,134 @@
+Index: .idea/workspace.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<project version=\"4\">\n  <component name=\"ChangeListManager\">\n    <list default=\"true\" id=\"82a3f5a1-2110-4bd1-96ea-0a9bc73453cb\" name=\"Default Changelist\" comment=\"\">\n      <change beforePath=\"$PROJECT_DIR$/.idea/workspace.xml\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/.idea/workspace.xml\" afterDir=\"false\" />\n    </list>\n    <option name=\"EXCLUDED_CONVERTED_TO_IGNORED\" value=\"true\" />\n    <option name=\"SHOW_DIALOG\" value=\"false\" />\n    <option name=\"HIGHLIGHT_CONFLICTS\" value=\"true\" />\n    <option name=\"HIGHLIGHT_NON_ACTIVE_CHANGELIST\" value=\"false\" />\n    <option name=\"LAST_RESOLUTION\" value=\"IGNORE\" />\n  </component>\n  <component name=\"ClassPatternConfiguration\">\n    <testPatterns>\n      <classPattern testedClass=\"$CLASS$\" testClass=\"test/$CLASS$Test\" />\n    </testPatterns>\n  </component>\n  <component name=\"FileTemplateManagerImpl\">\n    <option name=\"RECENT_TEMPLATES\">\n      <list>\n        <option value=\"Class\" />\n      </list>\n    </option>\n  </component>\n  <component name=\"Git.Settings\">\n    <option name=\"PUSH_TAGS\">\n      <GitPushTagMode>\n        <option name=\"argument\" value=\"--tags\" />\n        <option name=\"title\" value=\"All\" />\n      </GitPushTagMode>\n    </option>\n    <option name=\"RECENT_GIT_ROOT_PATH\" value=\"$PROJECT_DIR$\" />\n  </component>\n  <component name=\"JUnitClassTemplateConfiguration\">\n    <option name=\"DONT_SHOW_TEMPLATE_DIALOG_IF_ONLY_ONE_TEMPLATE\" value=\"false\" />\n    <option name=\"DONT_SHOW_METHODS_DIALOG_IF_ONLY_ONE_METHOD\" value=\"false\" />\n    <option name=\"LAST_TEMPLATE_NAME\" value=\"Default Test Class.java\" />\n    <option name=\"TEST_TEMPLATES\">\n      <value>\n        <list size=\"1\">\n          <item index=\"0\" class=\"java.lang.String\" itemvalue=\"Default Test Class.java\" />\n        </list>\n      </value>\n    </option>\n  </component>\n  <component name=\"JUnitMethodTemplateConfiguration\">\n    <option name=\"DONT_SHOW_TEMPLATE_DIALOG_IF_ONLY_ONE_TEMPLATE\" value=\"false\" />\n    <option name=\"DONT_SHOW_METHODS_DIALOG_IF_ONLY_ONE_METHOD\" value=\"false\" />\n    <option name=\"LAST_TEMPLATE_NAME\" value=\"Default Test Method.java\" />\n    <option name=\"TEST_TEMPLATES\">\n      <value>\n        <list size=\"2\">\n          <item index=\"0\" class=\"java.lang.String\" itemvalue=\"Default Test Method.java\" />\n          <item index=\"1\" class=\"java.lang.String\" itemvalue=\"Test Method throws Exception.java\" />\n        </list>\n      </value>\n    </option>\n  </component>\n  <component name=\"JUnitTestConfiguration\">\n    <option name=\"IS_AUTO_TEST_CLASS_RENAME_ENABLED\" value=\"true\" />\n    <option name=\"IS_AUTO_TEST_CLASS_MOVE_ENABLED\" value=\"true\" />\n    <option name=\"IS_AUTO_TEST_CLASS_REFACTORING_ENABLED\" value=\"true\" />\n    <option name=\"IS_AUTO_TEST_METHODS_RENAME_ENABLED\" value=\"true\" />\n    <option name=\"IS_UNTESTED_METHOD_ICON_ENABLED\" value=\"true\" />\n    <option name=\"IS_GET_METHOD_ICONS_ENABLED\" value=\"true\" />\n    <option name=\"IS_SET_METHOD_ICONS_ENABLED\" value=\"true\" />\n    <option name=\"IS_UNIT_TEST_ENABLED\" value=\"true\" />\n  </component>\n  <component name=\"ProjectId\" id=\"1aXNvebyNOLDOqUTORCUNBN7DdC\" />\n  <component name=\"ProjectLevelVcsManager\">\n    <ConfirmationsSetting value=\"1\" id=\"Add\" />\n  </component>\n  <component name=\"PropertiesComponent\">\n    <property name=\"SHARE_PROJECT_CONFIGURATION_FILES\" value=\"true\" />\n    <property name=\"WebServerToolWindowFactoryState\" value=\"false\" />\n    <property name=\"aspect.path.notification.shown\" value=\"true\" />\n    <property name=\"last_opened_file_path\" value=\"$PROJECT_DIR$\" />\n    <property name=\"restartRequiresConfirmation\" value=\"false\" />\n    <property name=\"settings.editor.selected.configurable\" value=\"plugins.junitgenerator.application\" />\n  </component>\n  <component name=\"RunDashboard\">\n    <option name=\"ruleStates\">\n      <list>\n        <RuleState>\n          <option name=\"name\" value=\"ConfigurationTypeDashboardGroupingRule\" />\n        </RuleState>\n        <RuleState>\n          <option name=\"name\" value=\"StatusDashboardGroupingRule\" />\n        </RuleState>\n      </list>\n    </option>\n  </component>\n  <component name=\"RunManager\" selected=\"Application.Djstl\">\n    <configuration name=\"DepthFirst\" type=\"Application\" factoryName=\"Application\" temporary=\"true\" nameIsGenerated=\"true\">\n      <option name=\"MAIN_CLASS_NAME\" value=\"com.company.easy.depth.DepthFirst\" />\n      <module name=\"LetCodePay\" />\n      <extension name=\"coverage\">\n        <pattern>\n          <option name=\"PATTERN\" value=\"com.company.easy.depth.*\" />\n          <option name=\"ENABLED\" value=\"true\" />\n        </pattern>\n      </extension>\n      <method v=\"2\">\n        <option name=\"Make\" enabled=\"true\" />\n      </method>\n    </configuration>\n    <configuration name=\"Djstl\" type=\"Application\" factoryName=\"Application\" temporary=\"true\" nameIsGenerated=\"true\">\n      <option name=\"MAIN_CLASS_NAME\" value=\"com.company.easy.Djstl\" />\n      <module name=\"LetCodePay\" />\n      <extension name=\"coverage\">\n        <pattern>\n          <option name=\"PATTERN\" value=\"com.company.easy.*\" />\n          <option name=\"ENABLED\" value=\"true\" />\n        </pattern>\n      </extension>\n      <method v=\"2\">\n        <option name=\"Make\" enabled=\"true\" />\n      </method>\n    </configuration>\n    <configuration name=\"Link\" type=\"Application\" factoryName=\"Application\" temporary=\"true\" nameIsGenerated=\"true\">\n      <option name=\"MAIN_CLASS_NAME\" value=\"com.company.easy.Link\" />\n      <module name=\"LetCodePay\" />\n      <extension name=\"coverage\">\n        <pattern>\n          <option name=\"PATTERN\" value=\"com.company.easy.depth.*\" />\n          <option name=\"ENABLED\" value=\"true\" />\n        </pattern>\n      </extension>\n      <method v=\"2\">\n        <option name=\"Make\" enabled=\"true\" />\n      </method>\n    </configuration>\n    <configuration name=\"TEST\" type=\"Application\" factoryName=\"Application\" temporary=\"true\" nameIsGenerated=\"true\">\n      <option name=\"MAIN_CLASS_NAME\" value=\"com.company.easy.TEST\" />\n      <module name=\"LetCodePay\" />\n      <extension name=\"coverage\">\n        <pattern>\n          <option name=\"PATTERN\" value=\"com.company.easy.*\" />\n          <option name=\"ENABLED\" value=\"true\" />\n        </pattern>\n      </extension>\n      <method v=\"2\">\n        <option name=\"Make\" enabled=\"true\" />\n      </method>\n    </configuration>\n    <configuration name=\"Test\" type=\"Application\" factoryName=\"Application\" temporary=\"true\" nameIsGenerated=\"true\">\n      <option name=\"MAIN_CLASS_NAME\" value=\"com.company.Test\" />\n      <module name=\"LetCodePay\" />\n      <extension name=\"coverage\">\n        <pattern>\n          <option name=\"PATTERN\" value=\"com.company.utils.*\" />\n          <option name=\"ENABLED\" value=\"true\" />\n        </pattern>\n      </extension>\n      <method v=\"2\">\n        <option name=\"Make\" enabled=\"true\" />\n      </method>\n    </configuration>\n    <recent_temporary>\n      <list>\n        <item itemvalue=\"Application.Djstl\" />\n        <item itemvalue=\"Application.TEST\" />\n        <item itemvalue=\"Application.DepthFirst\" />\n        <item itemvalue=\"Application.Link\" />\n        <item itemvalue=\"Application.Test\" />\n      </list>\n    </recent_temporary>\n  </component>\n  <component name=\"SvnConfiguration\">\n    <configuration />\n  </component>\n  <component name=\"TaskManager\">\n    <task active=\"true\" id=\"Default\" summary=\"Default task\">\n      <changelist id=\"82a3f5a1-2110-4bd1-96ea-0a9bc73453cb\" name=\"Default Changelist\" comment=\"\" />\n      <created>1586878210240</created>\n      <option name=\"number\" value=\"Default\" />\n      <option name=\"presentableId\" value=\"Default\" />\n      <updated>1586878210240</updated>\n      <workItem from=\"1586878211691\" duration=\"713000\" />\n      <workItem from=\"1586878938296\" duration=\"182000\" />\n      <workItem from=\"1586879727099\" duration=\"110000\" />\n      <workItem from=\"1587369210047\" duration=\"7730000\" />\n      <workItem from=\"1587470498267\" duration=\"3141000\" />\n      <workItem from=\"1587475047280\" duration=\"295000\" />\n      <workItem from=\"1587620067224\" duration=\"3753000\" />\n      <workItem from=\"1588007742212\" duration=\"75000\" />\n      <workItem from=\"1588058263727\" duration=\"4356000\" />\n      <workItem from=\"1588090314152\" duration=\"89000\" />\n      <workItem from=\"1588673246622\" duration=\"133000\" />\n      <workItem from=\"1588673539891\" duration=\"1300000\" />\n      <workItem from=\"1588675587481\" duration=\"49000\" />\n      <workItem from=\"1588682787798\" duration=\"664000\" />\n      <workItem from=\"1588936124562\" duration=\"1054000\" />\n      <workItem from=\"1589172328578\" duration=\"1622000\" />\n    </task>\n    <task id=\"LOCAL-00001\" summary=\"1.添加深度优先和广度优先算法\">\n      <created>1588082388061</created>\n      <option name=\"number\" value=\"00001\" />\n      <option name=\"presentableId\" value=\"LOCAL-00001\" />\n      <option name=\"project\" value=\"LOCAL\" />\n      <updated>1588082388061</updated>\n    </task>\n    <task id=\"LOCAL-00002\" summary=\"1.添加深度优先和广度优先算法\">\n      <created>1588082455956</created>\n      <option name=\"number\" value=\"00002\" />\n      <option name=\"presentableId\" value=\"LOCAL-00002\" />\n      <option name=\"project\" value=\"LOCAL\" />\n      <updated>1588082455956</updated>\n    </task>\n    <task id=\"LOCAL-00003\" summary=\"1.read.md说明\">\n      <created>1588090369426</created>\n      <option name=\"number\" value=\"00003\" />\n      <option name=\"presentableId\" value=\"LOCAL-00003\" />\n      <option name=\"project\" value=\"LOCAL\" />\n      <updated>1588090369426</updated>\n    </task>\n    <option name=\"localTasksCounter\" value=\"4\" />\n    <servers />\n  </component>\n  <component name=\"TypeScriptGeneratedFilesManager\">\n    <option name=\"version\" value=\"1\" />\n  </component>\n  <component name=\"Vcs.Log.Tabs.Properties\">\n    <option name=\"TAB_STATES\">\n      <map>\n        <entry key=\"MAIN\">\n          <value>\n            <State>\n              <option name=\"COLUMN_ORDER\" />\n            </State>\n          </value>\n        </entry>\n      </map>\n    </option>\n  </component>\n  <component name=\"VcsManagerConfiguration\">\n    <MESSAGE value=\"1.添加深度优先和广度优先算法\" />\n    <MESSAGE value=\"1.read.md说明\" />\n    <option name=\"LAST_COMMIT_MESSAGE\" value=\"1.read.md说明\" />\n  </component>\n  <component name=\"XDebuggerManager\">\n    <breakpoint-manager>\n      <breakpoints>\n        <line-breakpoint enabled=\"true\" type=\"java-line\">\n          <url>file://$PROJECT_DIR$/src/com/company/easy/Bubble.java</url>\n          <line>5</line>\n          <option name=\"timeStamp\" value=\"1\" />\n        </line-breakpoint>\n        <line-breakpoint enabled=\"true\" type=\"java-line\">\n          <url>file://$PROJECT_DIR$/src/com/company/easy/FastSort.java</url>\n          <line>10</line>\n          <option name=\"timeStamp\" value=\"4\" />\n        </line-breakpoint>\n        <line-breakpoint enabled=\"true\" type=\"java-line\">\n          <url>file://$PROJECT_DIR$/src/com/company/easy/Queue.java</url>\n          <line>9</line>\n          <option name=\"timeStamp\" value=\"5\" />\n        </line-breakpoint>\n        <line-breakpoint enabled=\"true\" type=\"java-line\">\n          <url>file://$PROJECT_DIR$/src/com/company/Test.java</url>\n          <line>22</line>\n          <option name=\"timeStamp\" value=\"7\" />\n        </line-breakpoint>\n      </breakpoints>\n    </breakpoint-manager>\n  </component>\n</project>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- .idea/workspace.xml	(revision fbdf8bd82b5e228434169a3ed9a3f086b1db21a1)
++++ .idea/workspace.xml	(date 1611206150597)
+@@ -1,10 +1,10 @@
+ <?xml version="1.0" encoding="UTF-8"?>
+ <project version="4">
+   <component name="ChangeListManager">
+-    <list default="true" id="82a3f5a1-2110-4bd1-96ea-0a9bc73453cb" name="Default Changelist" comment="">
++    <list default="true" id="82a3f5a1-2110-4bd1-96ea-0a9bc73453cb" name="Default Changelist" comment="1.read.md说明">
+       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/out/production/LetCodePay/META-INF/LetCodePay.kotlin_module" beforeDir="false" />
+     </list>
+-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+     <option name="SHOW_DIALOG" value="false" />
+     <option name="HIGHLIGHT_CONFLICTS" value="true" />
+     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+@@ -69,28 +69,22 @@
+   <component name="ProjectId" id="1aXNvebyNOLDOqUTORCUNBN7DdC" />
+   <component name="ProjectLevelVcsManager">
+     <ConfirmationsSetting value="1" id="Add" />
++  </component>
++  <component name="ProjectViewState">
++    <option name="hideEmptyMiddlePackages" value="true" />
++    <option name="showLibraryContents" value="true" />
+   </component>
+   <component name="PropertiesComponent">
++    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
++    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+     <property name="WebServerToolWindowFactoryState" value="false" />
+     <property name="aspect.path.notification.shown" value="true" />
+     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+     <property name="restartRequiresConfirmation" value="false" />
+-    <property name="settings.editor.selected.configurable" value="plugins.junitgenerator.application" />
+-  </component>
+-  <component name="RunDashboard">
+-    <option name="ruleStates">
+-      <list>
+-        <RuleState>
+-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+-        </RuleState>
+-        <RuleState>
+-          <option name="name" value="StatusDashboardGroupingRule" />
+-        </RuleState>
+-      </list>
+-    </option>
++    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+   </component>
+-  <component name="RunManager" selected="Application.Djstl">
++  <component name="RunManager" selected="Application.Test">
+     <configuration name="DepthFirst" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+       <option name="MAIN_CLASS_NAME" value="com.company.easy.depth.DepthFirst" />
+       <module name="LetCodePay" />
+@@ -158,11 +152,11 @@
+     </configuration>
+     <recent_temporary>
+       <list>
++        <item itemvalue="Application.Test" />
+         <item itemvalue="Application.Djstl" />
+         <item itemvalue="Application.TEST" />
+         <item itemvalue="Application.DepthFirst" />
+         <item itemvalue="Application.Link" />
+-        <item itemvalue="Application.Test" />
+       </list>
+     </recent_temporary>
+   </component>
+@@ -192,6 +186,10 @@
+       <workItem from="1588682787798" duration="664000" />
+       <workItem from="1588936124562" duration="1054000" />
+       <workItem from="1589172328578" duration="1622000" />
++      <workItem from="1590826013647" duration="293000" />
++      <workItem from="1590826336514" duration="408000" />
++      <workItem from="1609045075517" duration="47000" />
++      <workItem from="1611203153388" duration="308000" />
+     </task>
+     <task id="LOCAL-00001" summary="1.添加深度优先和广度优先算法">
+       <created>1588082388061</created>
+@@ -218,25 +216,46 @@
+     <servers />
+   </component>
+   <component name="TypeScriptGeneratedFilesManager">
+-    <option name="version" value="1" />
++    <option name="version" value="2" />
+   </component>
+   <component name="Vcs.Log.Tabs.Properties">
+     <option name="TAB_STATES">
+       <map>
+         <entry key="MAIN">
+           <value>
+-            <State>
+-              <option name="COLUMN_ORDER" />
+-            </State>
++            <State />
+           </value>
+         </entry>
+       </map>
+     </option>
++    <option name="oldMeFiltersMigrated" value="true" />
+   </component>
+   <component name="VcsManagerConfiguration">
+     <MESSAGE value="1.添加深度优先和广度优先算法" />
+     <MESSAGE value="1.read.md说明" />
+     <option name="LAST_COMMIT_MESSAGE" value="1.read.md说明" />
++  </component>
++  <component name="WindowStateProjectService">
++    <state width="696" height="195" key="GridCell.Tab.0.bottom" timestamp="1609045121555">
++      <screen x="0" y="23" width="1440" height="797" />
++    </state>
++    <state width="696" height="195" key="GridCell.Tab.0.bottom/0.23.1440.797@0.23.1440.797" timestamp="1609045121555" />
++    <state width="696" height="195" key="GridCell.Tab.0.center" timestamp="1609045121554">
++      <screen x="0" y="23" width="1440" height="797" />
++    </state>
++    <state width="696" height="195" key="GridCell.Tab.0.center/0.23.1440.797@0.23.1440.797" timestamp="1609045121554" />
++    <state width="696" height="195" key="GridCell.Tab.0.left" timestamp="1609045121553">
++      <screen x="0" y="23" width="1440" height="797" />
++    </state>
++    <state width="696" height="195" key="GridCell.Tab.0.left/0.23.1440.797@0.23.1440.797" timestamp="1609045121553" />
++    <state width="696" height="195" key="GridCell.Tab.0.right" timestamp="1609045121555">
++      <screen x="0" y="23" width="1440" height="797" />
++    </state>
++    <state width="696" height="195" key="GridCell.Tab.0.right/0.23.1440.797@0.23.1440.797" timestamp="1609045121555" />
++    <state x="221" y="64" key="SettingsEditor" timestamp="1611203252875">
++      <screen x="0" y="23" width="1440" height="801" />
++    </state>
++    <state x="221" y="64" key="SettingsEditor/0.23.1440.801@0.23.1440.801" timestamp="1611203252875" />
+   </component>
+   <component name="XDebuggerManager">
+     <breakpoint-manager>
