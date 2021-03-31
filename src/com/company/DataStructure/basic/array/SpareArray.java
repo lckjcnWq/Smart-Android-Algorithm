@@ -1,4 +1,4 @@
-package com.company.DataStructure;
+package com.company.DataStructure.basic.array;
 
 /**
  * 稀疏数组

@@ -15,6 +15,13 @@ public class BisectFind {
         Arrays.sort(arrays);
         long firstTime = System.currentTimeMillis();
         System.out.println("需要找到的次数:"+bisectFind(arrays,12));
+//        System.out.println("需要找到的次数:"+f(20));
+    }
+
+    public static int f(int n){
+        if (n == 1) return 1;
+        if (n == 2) return 2;
+        return f(n-1) + f(n-2);
     }
 
     public static int bisectFind(int[] arr,int value){
