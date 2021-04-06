@@ -5,14 +5,15 @@ import java.util.Random;
 public class BubbleSort {
 
     public static void main(String[] arg0){
-        int[]  arrays=new int[50000];
-        for(int i=0;i<arrays.length;i++){
-            arrays[i]= new Random().nextInt(10000);
-        }
-        long firstTime = System.currentTimeMillis();
-        System.out.println(System.currentTimeMillis());
-        sort(arrays);
-        System.out.println("时间间隔:"+(System.currentTimeMillis()-firstTime));
+//        int[]  arrays=new int[50000];
+//        for(int i=0;i<arrays.length;i++){
+//            arrays[i]= new Random().nextInt(10000);
+//        }
+//        long firstTime = System.currentTimeMillis();
+//        System.out.println(System.currentTimeMillis());
+//        sort(arrays);
+
+
     }
 
 
